@@ -497,3 +497,4 @@ user_pref("webgl.disable-extensions",	true);
 user_pref("security.fileuri.strict_origin_policy",		true);
 user_pref("browser.urlbar.filter.javascript",			true);
 user_pref("security.xpconnect.plugin.unrestricted",		false);
+user_pref("browser.privatebrowsing.autostart", true);
